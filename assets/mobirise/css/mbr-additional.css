@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -19,13 +21,14 @@
   display: none !important;
 }
 #dropdown-menu-2btn-5 .navbar-brand a {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 }
 #dropdown-menu-2btn-5 .nav .link,
 #dropdown-menu-2btn-5 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
 }
 #dropdown-menu-2btn-5 .navbar,
 #dropdown-menu-2btn-5 .dropdown-menu {
