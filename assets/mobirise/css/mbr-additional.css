@@ -15,24 +15,27 @@
 #social-buttons1-3 .mbr-section-title {
   font-family: 'Titillium Web', sans-serif;
 }
-#dropdown-menu-4 .hide-buttons [data-button] {
+#dropdown-menu-2btn-5 .hide-buttons [data-button] {
   display: none !important;
 }
-#dropdown-menu-4 .nav .link,
-#dropdown-menu-4 .dropdown-item {
+#dropdown-menu-2btn-5 .navbar-brand a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+#dropdown-menu-2btn-5 .nav .link,
+#dropdown-menu-2btn-5 .dropdown-item {
   font-size: 1.2em;
   color: #ffffff;
-  font-family: 'Titillium Web', sans-serif;
 }
-#dropdown-menu-4 .navbar,
-#dropdown-menu-4 .dropdown-menu {
+#dropdown-menu-2btn-5 .navbar,
+#dropdown-menu-2btn-5 .dropdown-menu {
   background: #0275d8;
 }
-#dropdown-menu-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-4 .dropdown-menu a:hover,
-#dropdown-menu-4 .dropdown-menu a:focus {
+#dropdown-menu-2btn-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-5 .dropdown-menu a:hover,
+#dropdown-menu-2btn-5 .dropdown-menu a:focus {
   background: #026ac4;
 }
-#dropdown-menu-4 .navbar-toggler {
+#dropdown-menu-2btn-5 .navbar-toggler {
   color: #ffffff;
 }
